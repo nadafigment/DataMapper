@@ -1,4 +1,4 @@
-package com.example.android.datamapper;
+package com.github.nadafigment.DataMapper;
 import java.util.ArrayList;
 
 import android.app.AlertDialog;

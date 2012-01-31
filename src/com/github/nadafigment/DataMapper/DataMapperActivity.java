@@ -1,4 +1,4 @@
-package com.example.android.datamapper;
+package com.github.nadafigment.DataMapper;
 
 import java.util.List;
 
@@ -15,7 +15,6 @@ public class DataMapperActivity extends MapActivity {
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
-    	int r = 16;
     	
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
